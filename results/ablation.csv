@@ -1,0 +1,5 @@
+variant,models,r_bar_all,r_bar_unseen
+"GxEDiff, 3 layers",3,0.4088,0.3262
+"GxEDiff, 5 layers",3,0.431,0.3446
+"GxEDiff, 15 layers",6,0.314,0.1726
+GxEDiff without self-conditioning,3,0.408,0.3198
